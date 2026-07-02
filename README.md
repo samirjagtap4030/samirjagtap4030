@@ -99,16 +99,16 @@
 
 | Repository | Description |
 |------------|-------------|
-| [eventhub_playwright_bdd](https://github.com/samirjagtap4030/eventhub_playwright_bdd) | EventHub — Playwright BDD + 7-agent AI pipeline |
-| [eventhub_postman](https://github.com/samirjagtap4030/eventhub_postman) | EventHub — AI-powered Postman API test generation via Claude + Newman |
-| [eventhub_restAssured_bdd](https://github.com/samirjagtap4030/eventhub_restAssured_bdd) | EventHub — REST Assured + Cucumber BDD API automation |
-| [eventhub_selenium_bdd](https://github.com/samirjagtap4030/eventhub_selenium_bdd) | EventHub — Selenium BDD + 4-agent Jenkins partitioning |
-| [AIAGENTMCP](https://github.com/samirjagtap4030/AIAGENTMCP) | GitHub Copilot sub-agents via MCP protocol |
+| 🔒 [eventhub_playwright_bdd](https://github.com/samirjagtap4030/eventhub_playwright_bdd) | EventHub — Playwright BDD + 7-agent AI pipeline |
+| 🔒 [eventhub_postman](https://github.com/samirjagtap4030/eventhub_postman) | EventHub — AI-powered Postman API test generation via Claude + Newman |
+| 🔒 [eventhub_restAssured_bdd](https://github.com/samirjagtap4030/eventhub_restAssured_bdd) | EventHub — REST Assured + Cucumber BDD API automation |
+| 🔒 [eventhub_selenium_bdd](https://github.com/samirjagtap4030/eventhub_selenium_bdd) | EventHub — Selenium BDD + 4-agent Jenkins partitioning |
+| 🔒 [AIAGENTMCP](https://github.com/samirjagtap4030/AIAGENTMCP) | GitHub Copilot sub-agents via MCP protocol |
 | [PlaywrightAgents](https://github.com/samirjagtap4030/PlaywrightAgents) | Playwright Planner / Generator / Healer agents |
 | [OrangeHRM_PlaywrightMCP](https://github.com/samirjagtap4030/OrangeHRM_PlaywrightMCP) | OrangeHRM — Playwright MCP agentic workflow |
 | [OrangeHRM_SeleniumMCP](https://github.com/samirjagtap4030/OrangeHRM_SeleniumMCP) | OrangeHRM — Selenium MCP agentic workflow |
-| [OrangeHRM_JiraMCP_Automation](https://github.com/samirjagtap4030/OrangeHRM_JiraMCP_Automation) | OrangeHRM — Jira MCP automated test sync |
-| [OrangeHRM_JiraMCP_Manual](https://github.com/samirjagtap4030/OrangeHRM_JiraMCP_Manual) | OrangeHRM — Jira MCP manual test case management |
+| 🔒 [OrangeHRM_JiraMCP_Automation](https://github.com/samirjagtap4030/OrangeHRM_JiraMCP_Automation) | OrangeHRM — Jira MCP automated test sync |
+| 🔒 [OrangeHRM_JiraMCP_Manual](https://github.com/samirjagtap4030/OrangeHRM_JiraMCP_Manual) | OrangeHRM — Jira MCP manual test case management |
 
 </details>
 
@@ -117,11 +117,11 @@
 
 | Repository | Description |
 |------------|-------------|
-| [PlayWrightAutomation_Rahul](https://github.com/samirjagtap4030/PlayWrightAutomation_Rahul) | Playwright automation framework — course project |
+| 🔒 [PlayWrightAutomation_Rahul](https://github.com/samirjagtap4030/PlayWrightAutomation_Rahul) | Playwright automation framework — course project |
 | [PlaywrightTest](https://github.com/samirjagtap4030/PlaywrightTest) | Playwright test suite with POM architecture |
 | [playwrightCliDemo](https://github.com/samirjagtap4030/playwrightCliDemo) | Playwright CLI automation demo |
-| [JavaScript_Code_Files](https://github.com/samirjagtap4030/JavaScript_Code_Files) | JavaScript utilities for Playwright |
-| [EXCELJSUTILS](https://github.com/samirjagtap4030/EXCELJSUTILS) | ExcelJS utilities for data-driven Playwright testing |
+| 🔒 [JavaScript_Code_Files](https://github.com/samirjagtap4030/JavaScript_Code_Files) | JavaScript utilities for Playwright |
+| 🔒 [EXCELJSUTILS](https://github.com/samirjagtap4030/EXCELJSUTILS) | ExcelJS utilities for data-driven Playwright testing |
 
 </details>
 
@@ -130,10 +130,10 @@
 
 | Repository | Description |
 |------------|-------------|
-| [Ecom_Postman_RH](https://github.com/samirjagtap4030/Ecom_Postman_RH) | E-commerce API automation — auth, orders, products |
-| [Library_DDT_5_18_Postman_RH_Github](https://github.com/samirjagtap4030/Library_DDT_5_18_Postman_RH_Github) | Library API — data-driven testing with Postman |
-| [Postman-Practice-Pawan](https://github.com/samirjagtap4030/Postman-Practice-Pawan) | Postman practice collections |
-| [Opencart_Api_Testing_Github_Postman](https://github.com/samirjagtap4030/Opencart_Api_Testing_Github_Postman) | Opencart API testing with Postman |
+| 🔒 [Ecom_Postman_RH](https://github.com/samirjagtap4030/Ecom_Postman_RH) | E-commerce API automation — auth, orders, products |
+| 🔒 [Library_DDT_5_18_Postman_RH_Github](https://github.com/samirjagtap4030/Library_DDT_5_18_Postman_RH_Github) | Library API — data-driven testing with Postman |
+| 🔒 [Postman-Practice-Pawan](https://github.com/samirjagtap4030/Postman-Practice-Pawan) | Postman practice collections |
+| 🔒 [Opencart_Api_Testing_Github_Postman](https://github.com/samirjagtap4030/Opencart_Api_Testing_Github_Postman) | Opencart API testing with Postman |
 
 </details>
 
@@ -142,13 +142,13 @@
 
 | Repository | Description |
 |------------|-------------|
-| [eventhub-bookings-api-automation-restassured](https://github.com/samirjagtap4030/eventhub-bookings-api-automation-restassured) | EventHub Bookings API — REST Assured + Cucumber BDD |
-| [mock-server-api-automation-restassured](https://github.com/samirjagtap4030/mock-server-api-automation-restassured) | REST Assured + Postman mock server integration |
-| [library-api-automation-restassured](https://github.com/samirjagtap4030/library-api-automation-restassured) | Library Book API — REST Assured + Cucumber BDD |
-| [googleplace-api-Automation-restassured](https://github.com/samirjagtap4030/googleplace-api-Automation-restassured) | Google Place API — CRUD automation with POJO |
-| [RESTAssuredTest_excel](https://github.com/samirjagtap4030/RESTAssuredTest_excel) | REST Assured — Excel data-driven testing with Apache POI |
-| [DemoProject_restassured](https://github.com/samirjagtap4030/DemoProject_restassured) | REST Assured demo project |
-| [APIFramework_restassured](https://github.com/samirjagtap4030/APIFramework_restassured) | BDD API framework — REST Assured + Cucumber + JUnit |
+| 🔒 [eventhub-bookings-api-automation-restassured](https://github.com/samirjagtap4030/eventhub-bookings-api-automation-restassured) | EventHub Bookings API — REST Assured + Cucumber BDD |
+| 🔒 [mock-server-api-automation-restassured](https://github.com/samirjagtap4030/mock-server-api-automation-restassured) | REST Assured + Postman mock server integration |
+| 🔒 [library-api-automation-restassured](https://github.com/samirjagtap4030/library-api-automation-restassured) | Library Book API — REST Assured + Cucumber BDD |
+| 🔒 [googleplace-api-Automation-restassured](https://github.com/samirjagtap4030/googleplace-api-Automation-restassured) | Google Place API — CRUD automation with POJO |
+| 🔒 [RESTAssuredTest_excel](https://github.com/samirjagtap4030/RESTAssuredTest_excel) | REST Assured — Excel data-driven testing with Apache POI |
+| 🔒 [DemoProject_restassured](https://github.com/samirjagtap4030/DemoProject_restassured) | REST Assured demo project |
+| 🔒 [APIFramework_restassured](https://github.com/samirjagtap4030/APIFramework_restassured) | BDD API framework — REST Assured + Cucumber + JUnit |
 | [PetStoreAutomationRestAssured_PVN](https://github.com/samirjagtap4030/PetStoreAutomationRestAssured_PVN) | Pet Store API — CRUD automation with ExtentReports |
 | [java8streams](https://github.com/samirjagtap4030/java8streams) | Java 8 Streams — functional programming practice |
 
@@ -159,7 +159,7 @@
 
 | Repository | Description |
 |------------|-------------|
-| [AutomationCICD_SeleniumFrameworkDesign_GitHubProject_RahulShetty](https://github.com/samirjagtap4030/AutomationCICD_SeleniumFrameworkDesign_GitHubProject_RahulShetty) | Selenium CI/CD framework design — Rahul Shetty course |
+| 🔒 [AutomationCICD_SeleniumFrameworkDesign_GitHubProject_RahulShetty](https://github.com/samirjagtap4030/AutomationCICD_SeleniumFrameworkDesign_GitHubProject_RahulShetty) | Selenium CI/CD framework design — Rahul Shetty course |
 | [SeleniumFrameworkDesignAnitGravityRahulShetty](https://github.com/samirjagtap4030/SeleniumFrameworkDesignAnitGravityRahulShetty) | Selenium hybrid framework — AntGravity project |
 | [opencart_cucumber_framework](https://github.com/samirjagtap4030/opencart_cucumber_framework) | Opencart — Selenium + Cucumber BDD framework |
 | [CucumberHybridFramework](https://github.com/samirjagtap4030/CucumberHybridFramework) | Cucumber hybrid framework with TestNG |
@@ -178,13 +178,15 @@
 |------------|-------------|
 | [automation-project-latestChanges](https://github.com/samirjagtap4030/automation-project-latestChanges) | Latest automation project changes |
 | [styleforge-ai](https://github.com/samirjagtap4030/styleforge-ai) | AI style generation project |
-| [Opencart-Build-Deployment-Installation](https://github.com/samirjagtap4030/Opencart-Build-Deployment-Installation) | Opencart build & deployment setup |
+| 🔒 [Opencart-Build-Deployment-Installation](https://github.com/samirjagtap4030/Opencart-Build-Deployment-Installation) | Opencart build & deployment setup |
 | [GitDemo](https://github.com/samirjagtap4030/GitDemo) | Git concepts demo repository |
 | [merge-conflict](https://github.com/samirjagtap4030/merge-conflict) | Git merge conflict practice |
 | [Example](https://github.com/samirjagtap4030/Example) | Example repository |
 | [AI-Tester-Blueprint-testingAcademyPramod](https://github.com/samirjagtap4030/AI-Tester-Blueprint-testingAcademyPramod) | AI Tester Blueprint — QA professionals guide |
 
 </details>
+
+> 🔒 23 private repos available — contact to know more
 
 ---
 
