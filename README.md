@@ -475,11 +475,16 @@ Comparing multi-agent orchestration approaches and mapping them to QA use-cases:
 
 ---
 
+<details>
+<summary>📋 Usage Policy — click to expand</summary>
+
 > 💡 Found this helpful? Please ⭐ [Star this repo](https://github.com/samirjagtap4030/samirjagtap4030) and add `Inspired by [@samirjagtap4030](https://github.com/samirjagtap4030)` in your README.
 >
 > 🤝 [Connect on LinkedIn](https://www.linkedin.com/in/samir-jagtap-829a912b9) with a thank you message & share how you feel about this repo!
 >
 > 📧 Want to discuss anything? Reach me at samirjagtap4030@gmail.com
+
+</details>
 
 <p align="center"><i>"Building the future of QA — one AI agent at a time."</i></p>
 
