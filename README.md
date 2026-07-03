@@ -66,7 +66,8 @@
   <a href="#-certifications-390-hours">📜 Certifications</a> •
   <a href="#-testimonials">🗣️ Testimonials</a> •
   <a href="#-github-stats">📊 Stats</a> •
-  <a href="#-lets-build-the-future-of-qa-together">🤝 Connect</a>
+  <a href="#-lets-build-the-future-of-qa-together">🤝 Connect</a> •
+  <a href="#-usage-policy">📋 Usage Policy</a>
 </p>
 
 ---
@@ -474,6 +475,8 @@ Comparing multi-agent orchestration approaches and mapping them to QA use-cases:
 </p>
 
 ---
+
+## 📋 Usage Policy
 
 <details>
 <summary>📋 Usage Policy — click to expand</summary>
