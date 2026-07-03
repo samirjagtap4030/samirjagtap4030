@@ -67,7 +67,7 @@
   <a href="#-testimonials">🗣️ Testimonials</a> •
   <a href="#-github-stats">📊 Stats</a> •
   <a href="#-lets-build-the-future-of-qa-together">🤝 Connect</a> •
-  <a href="#-usage-policy">📋 Usage Policy</a>
+  <a href="#usage-policy">📋 Usage Policy</a>
 </p>
 
 ---
@@ -82,7 +82,7 @@
 - ⚡ **Stack:** Playwright (JS/TS), Selenium (Java), REST Assured, Postman, Jenkins, Docker, Azure DevOps
 - 📫 **Reach me at:** [samirjagtap4030@gmail.com](mailto:samirjagtap4030@gmail.com)
 
-<details>
+<details id="usage-policy">
 <summary>📋 Usage Policy — click to expand</summary>
 
 ✅ Personal use allowed — add credit + ⭐ star this repo  
@@ -475,8 +475,6 @@ Comparing multi-agent orchestration approaches and mapping them to QA use-cases:
 </p>
 
 ---
-
-## 📋 Usage Policy
 
 <details>
 <summary>📋 Usage Policy — click to expand</summary>
