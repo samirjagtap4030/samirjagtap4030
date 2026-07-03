@@ -81,6 +81,21 @@
 - ⚡ **Stack:** Playwright (JS/TS), Selenium (Java), REST Assured, Postman, Jenkins, Docker, Azure DevOps
 - 📫 **Reach me at:** [samirjagtap4030@gmail.com](mailto:samirjagtap4030@gmail.com)
 
+<details>
+<summary>📋 Usage Policy — click to expand</summary>
+
+✅ Personal use allowed — add credit + ⭐ star this repo  
+❌ Commercial use prohibited without permission
+
+If you use this, add:  
+`Inspired by [@samirjagtap4030](https://github.com/samirjagtap4030)`
+
+📧 Commercial use requests: samirjagtap4030@gmail.com
+
+Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+
+</details>
+
 ### 🏭 Industry Domains
 
 <p align="left">
@@ -457,6 +472,14 @@ Comparing multi-agent orchestration approaches and mapping them to QA use-cases:
   <a href="https://www.linkedin.com/in/samir-jagtap-829a912b9"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/samirjagtap4030"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
+---
+
+> 💡 Found this helpful? Please ⭐ [Star this repo](https://github.com/samirjagtap4030/samirjagtap4030) and add `Inspired by [@samirjagtap4030](https://github.com/samirjagtap4030)` in your README.
+>
+> 🤝 [Connect on LinkedIn](https://www.linkedin.com/in/samir-jagtap-829a912b9) with a thank you message & share how you feel about this repo!
+>
+> 📧 Want to discuss anything? Reach me at samirjagtap4030@gmail.com
 
 <p align="center"><i>"Building the future of QA — one AI agent at a time."</i></p>
 
