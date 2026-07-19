@@ -16,7 +16,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-4.5%20Years-blueviolet?style=for-the-badge&labelColor=0e0e0e" />
-  <img src="https://img.shields.io/badge/AI%20Frameworks-8%20Shipped-success?style=for-the-badge&labelColor=0e0e0e" />
+  <img src="https://img.shields.io/badge/AI%20Frameworks-9%20Shipped-success?style=for-the-badge&labelColor=0e0e0e" />
   <img src="https://img.shields.io/badge/MCP%20Servers-12%2B%20Configured-6B46C1?style=for-the-badge&labelColor=0e0e0e" />
   <img src="https://img.shields.io/badge/AI%20QA%20Agents-18%2B%20Built-orange?style=for-the-badge&labelColor=0e0e0e" />
   <img src="https://img.shields.io/badge/Certifications-390%2B%20Hours-red?style=for-the-badge&labelColor=0e0e0e" />
@@ -74,7 +74,7 @@
 
 ## 🧭 About Me
 
-**SDET with 4.5 years of industry experience** (EY, Markgenic) across Wealth Management, Investment Banking, HR, and Telecom domains. Currently specializing in **Agentic AI for QA** — I've built **8 production-grade AI-orchestrated frameworks** using multi-agent QA pipelines (Claude Terminal + MCP), implementing the same orchestration patterns as LangChain / CrewAI / AutoGen with MCP's production-ready approach.
+**SDET with 4.5 years of industry experience** (EY, Markgenic) across Wealth Management, Investment Banking, HR, and Telecom domains. Currently specializing in **Agentic AI for QA** — I've built **9 production-grade AI-orchestrated frameworks** using multi-agent QA pipelines (Claude Terminal + MCP), implementing the same orchestration patterns as LangChain / CrewAI / AutoGen with MCP's production-ready approach.
 
 - 🔭 **Now building:** Multi-Agent QA pipelines with Claude Terminal + MCP servers
 - 🤖 **Scale:** 12+ MCP servers configured · 18+ specialized AI QA agents implemented
@@ -317,7 +317,7 @@ Comparing multi-agent orchestration approaches and mapping them to QA use-cases:
 
 ## 🌟 Featured Projects
 
-> 📌 **8 AI-orchestrated frameworks — all on GitHub with full README documentation.** Top 5 featured below as pinned preview cards (click any card to open the repo).
+> 📌 **9 AI-orchestrated frameworks — all on GitHub with full README documentation.** Top 5 featured below as pinned preview cards (click any card to open the repo).
 
 ### 1. 🎭 EventHub — Playwright BDD Framework
 **Stack:** Playwright · Cucumber/Gherkin · TypeScript · GitHub Actions
@@ -400,7 +400,7 @@ Comparing multi-agent orchestration approaches and mapping them to QA use-cases:
 - 120+ scenarios with full RTM · caught **25+ revenue-leakage defects** in billing
 
 ### 🧑‍🔬 AI-QA Research Sabbatical  `Jun 2023 – Present` · Pune
-- Built **8 AI-orchestrated automation projects** — all **README-documented** with architecture diagrams, setup guides, and agent workflows on GitHub
+- Built **9 AI-orchestrated automation projects** — all **README-documented** with architecture diagrams, setup guides, and agent workflows on GitHub
 - Configured **12+ MCP servers** · Implemented **18+ specialized AI QA agents**
 - Mastered multi-agent pipelines, self-healing frameworks, MCP integration
 
