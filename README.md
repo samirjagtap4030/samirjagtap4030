@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EAD33&center=true&vCenter=true&width=700&lines=Building+Multi-Agent+QA+pipelines+with+Claude+%2B+MCP;8+AI-orchestrated+frameworks+shipped+on+GitHub;12%2B+MCP+servers+configured+%E2%80%A2+18%2B+specialized+QA+agents;Playwright+%E2%80%A2+Selenium+%E2%80%A2+REST+Assured+%E2%80%A2+Jenkins+%E2%80%A2+Azure+DevOps;390%2B+hours+of+certifications+%E2%80%A2+4.5+yrs+industry+%40+EY%2C+Markgenic" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EAD33&center=true&vCenter=true&width=700&lines=Building+Multi-Agent+QA+pipelines+with+Claude+%2B+MCP;9+AI-orchestrated+frameworks+shipped+on+GitHub;12%2B+MCP+servers+configured+%E2%80%A2+18%2B+specialized+QA+agents;Playwright+%E2%80%A2+Selenium+%E2%80%A2+REST+Assured+%E2%80%A2+Jenkins+%E2%80%A2+Azure+DevOps;390%2B+hours+of+certifications+%E2%80%A2+4.5+yrs+industry+%40+EY%2C+Markgenic" alt="Typing SVG" />
 </p>
 
 <!-- ============================================================ -->
@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="#-about-me">🧭 About</a> •
-  <a href="#-complete-repository-index--44-repos">📂 All Repos</a> •
+  <a href="#-complete-repository-index--45-repos">📂 All Repos</a> •
   <a href="#-tech-stack">🛠️ Tech Stack</a> •
   <a href="#-agentic-ai-qa--specialization">🧠 Agentic AI QA</a> •
   <a href="#-currently-exploring--agentic-ai-frameworks">🔬 Exploring</a> •
@@ -203,7 +203,7 @@ Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
 </details>
 
-> 🔒 23 private repos available — contact to know more
+> 🔒 24 private repos available — contact to know more
 
 ---
 
@@ -381,7 +381,7 @@ Comparing multi-agent orchestration approaches and mapping them to QA use-cases:
 - Fully AI-driven test lifecycle using Playwright's inbuilt **Planner → Generator → Healer** agents via Claude Terminal
 - CLI automation demo: test generation, execution, debugging, reporting
 
-> 🔗 **See all 44 repos organized by framework:** [📂 Jump to Repository Index ↑](#-complete-repository-index--44-repos)
+> 🔗 **See all 45 repos organized by framework:** [📂 Jump to Repository Index ↑](#-complete-repository-index--45-repos)
 
 ---
 
