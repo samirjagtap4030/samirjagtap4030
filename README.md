@@ -15,7 +15,7 @@
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-4.5%20Years-blueviolet?style=for-the-badge&labelColor=0e0e0e" />
+  <img src="https://img.shields.io/badge/Experience-1.3%20Years-blueviolet?style=for-the-badge&labelColor=0e0e0e" />
   <img src="https://img.shields.io/badge/AI%20Frameworks-9%20Shipped-success?style=for-the-badge&labelColor=0e0e0e" />
   <img src="https://img.shields.io/badge/MCP%20Servers-12%2B%20Configured-6B46C1?style=for-the-badge&labelColor=0e0e0e" />
   <img src="https://img.shields.io/badge/AI%20QA%20Agents-18%2B%20Built-orange?style=for-the-badge&labelColor=0e0e0e" />
