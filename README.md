@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EAD33&center=true&vCenter=true&width=700&lines=Building+Multi-Agent+QA+pipelines+with+Claude+%2B+MCP;9+AI-orchestrated+frameworks+shipped+on+GitHub;12%2B+MCP+servers+configured+%E2%80%A2+18%2B+specialized+QA+agents;Playwright+%E2%80%A2+Selenium+%E2%80%A2+REST+Assured+%E2%80%A2+Jenkins+%E2%80%A2+Azure+DevOps;390%2B+hours+of+certifications+%E2%80%A2+4.5+yrs+industry+%40+EY%2C+Markgenic" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EAD33&center=true&vCenter=true&width=700&lines=Building+Multi-Agent+QA+pipelines+with+Claude+%2B+MCP;9+AI-orchestrated+frameworks+shipped+on+GitHub;12%2B+MCP+servers+configured+%E2%80%A2+18%2B+specialized+QA+agents;Playwright+%E2%80%A2+Selenium+%E2%80%A2+REST+Assured+%E2%80%A2+Jenkins+%E2%80%A2+Azure+DevOps;390%2B+hours+of+certifications+%E2%80%A2+1.3%2B+yrs+industry+%40+EY" alt="Typing SVG" />
 </p>
 
 <!-- ============================================================ -->
@@ -15,7 +15,7 @@
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-1.3%20Years-blueviolet?style=for-the-badge&labelColor=0e0e0e" />
+  <img src="https://img.shields.io/badge/Experience-1.3%2B%20Years-blueviolet?style=for-the-badge&labelColor=0e0e0e" />
   <img src="https://img.shields.io/badge/AI%20Frameworks-9%20Shipped-success?style=for-the-badge&labelColor=0e0e0e" />
   <img src="https://img.shields.io/badge/MCP%20Servers-12%2B%20Configured-6B46C1?style=for-the-badge&labelColor=0e0e0e" />
   <img src="https://img.shields.io/badge/AI%20QA%20Agents-18%2B%20Built-orange?style=for-the-badge&labelColor=0e0e0e" />
@@ -74,7 +74,7 @@
 
 ## 🧭 About Me
 
-**SDET with 4.5 years of industry experience** (EY, Markgenic) across Wealth Management, Investment Banking, HR, and Telecom domains. Currently specializing in **Agentic AI for QA** — I've built **9 production-grade AI-orchestrated frameworks** using multi-agent QA pipelines (Claude Terminal + MCP), implementing the same orchestration patterns as LangChain / CrewAI / AutoGen with MCP's production-ready approach.
+**SDET with 1.3+ years of industry experience** (EY) across Wealth Management, Investment Banking and HR domains. Currently specializing in **Agentic AI for QA** — I've built **9 production-grade AI-orchestrated frameworks** using multi-agent QA pipelines (Claude Terminal + MCP), implementing the same orchestration patterns as LangChain / CrewAI / AutoGen with MCP's production-ready approach.
 
 - 🔭 **Now building:** Multi-Agent QA pipelines with Claude Terminal + MCP servers
 - 🤖 **Scale:** 12+ MCP servers configured · 18+ specialized AI QA agents implemented
@@ -393,13 +393,7 @@ Comparing multi-agent orchestration approaches and mapping them to QA use-cases:
 - 80+ defects logged in HP ALM with root-cause analysis
 - **~40% regression cycle-time reduction** via POM cross-browser automation (Chrome/Firefox/IE)
 
-### 🏢 Markgenic Software — Test Engineer  `Dec 2018 – Feb 2022` · Pune
-**Equity Trade System · Tele 2 Billing System**
-- 200+ E2E scenarios across 3 major releases · **100% defect closure rate**
-- Sustained **~30% defect detection rate** in regression
-- 120+ scenarios with full RTM · caught **25+ revenue-leakage defects** in billing
-
-### 🧑‍🔬 AI-QA Research Sabbatical  `Jun 2023 – Present` · Pune
+### 🧑‍🔬 SDET — Agentic & AI-driven Testing Frameworks  `Jun 2023 – Present` · Pune
 - Built **9 AI-orchestrated automation projects** — all **README-documented** with architecture diagrams, setup guides, and agent workflows on GitHub
 - Configured **12+ MCP servers** · Implemented **18+ specialized AI QA agents**
 - Mastered multi-agent pipelines, self-healing frameworks, MCP integration
