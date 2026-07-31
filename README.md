@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EAD33&center=true&vCenter=true&width=700&lines=Building+Multi-Agent+QA+pipelines+with+Claude+%2B+MCP;9+AI-orchestrated+frameworks+shipped+on+GitHub;12%2B+MCP+servers+configured+%E2%80%A2+18%2B+specialized+QA+agents;Playwright+%E2%80%A2+Selenium+%E2%80%A2+REST+Assured+%E2%80%A2+Jenkins+%E2%80%A2+Azure+DevOps;390%2B+hours+of+certifications+%E2%80%A2+1.3%2B+yrs+industry+%40+EY" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EAD33&center=true&vCenter=true&width=700&lines=Building+Multi-Agent+QA+pipelines+with+Claude+%2B+MCP;9+AI-orchestrated+frameworks+shipped+on+GitHub;12%2B+MCP+servers+configured+%E2%80%A2+42%2B+specialized+QA+agents;Playwright+%E2%80%A2+Selenium+%E2%80%A2+REST+Assured+%E2%80%A2+Jenkins+%E2%80%A2+Azure+DevOps;390%2B+hours+of+certifications+%E2%80%A2+3%2B+yrs+hands-on+automation" alt="Typing SVG" />
 </p>
 
 <!-- ============================================================ -->
@@ -15,10 +15,10 @@
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-1.3%2B%20Years-blueviolet?style=for-the-badge&labelColor=0e0e0e" />
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-blueviolet?style=for-the-badge&labelColor=0e0e0e" />
   <img src="https://img.shields.io/badge/AI%20Frameworks-9%20Shipped-success?style=for-the-badge&labelColor=0e0e0e" />
   <img src="https://img.shields.io/badge/MCP%20Servers-12%2B%20Configured-6B46C1?style=for-the-badge&labelColor=0e0e0e" />
-  <img src="https://img.shields.io/badge/AI%20QA%20Agents-18%2B%20Built-orange?style=for-the-badge&labelColor=0e0e0e" />
+  <img src="https://img.shields.io/badge/AI%20QA%20Agents-42%2B%20Built-orange?style=for-the-badge&labelColor=0e0e0e" />
   <img src="https://img.shields.io/badge/Certifications-390%2B%20Hours-red?style=for-the-badge&labelColor=0e0e0e" />
 </p>
 
@@ -74,10 +74,10 @@
 
 ## 🧭 About Me
 
-**SDET with 1.3+ years of industry experience** (EY) across Wealth Management, Investment Banking and HR domains. Currently specializing in **Agentic AI for QA** — I've built **9 production-grade AI-orchestrated frameworks** using multi-agent QA pipelines (Claude Terminal + MCP), implementing the same orchestration patterns as LangChain / CrewAI / AutoGen with MCP's production-ready approach.
+**SDET with 3+ years of hands-on automation experience** (1.3 yrs at EY across Wealth Management, Investment Banking & HR + 2+ yrs Agentic AI/SDET practice). Currently specializing in **Agentic AI for QA** — I've built **9 production-grade AI-orchestrated frameworks** using multi-agent QA pipelines (Claude Terminal + MCP), implementing the same orchestration patterns as LangChain / CrewAI / AutoGen with MCP's production-ready approach.
 
 - 🔭 **Now building:** Multi-Agent QA pipelines with Claude Terminal + MCP servers
-- 🤖 **Scale:** 12+ MCP servers configured · 18+ specialized AI QA agents implemented
+- 🤖 **Scale:** 12+ MCP servers configured · 42+ specialized AI QA agents implemented
 - 🎓 **Certifications:** 10 completed · 390+ hours of self-directed upskilling
 - ⚡ **Stack:** Playwright (JS/TS), Selenium (Java), REST Assured, Postman, Jenkins, Docker, Azure DevOps
 - 📫 **Reach me at:** [samirjagtap4030@gmail.com](mailto:samirjagtap4030@gmail.com)
@@ -395,7 +395,7 @@ Comparing multi-agent orchestration approaches and mapping them to QA use-cases:
 
 ### 🧑‍🔬 SDET — Agentic & AI-driven Testing Frameworks  `Jun 2023 – Present` · Pune
 - Built **9 AI-orchestrated automation projects** — all **README-documented** with architecture diagrams, setup guides, and agent workflows on GitHub
-- Configured **12+ MCP servers** · Implemented **18+ specialized AI QA agents**
+- Configured **12+ MCP servers** · Implemented **42+ specialized AI QA agents**
 - Mastered multi-agent pipelines, self-healing frameworks, MCP integration
 
 ---
