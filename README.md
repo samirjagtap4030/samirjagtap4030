@@ -111,7 +111,24 @@ Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 ## 📂 Complete Repository Index — 45 Repos
 
 <details>
-<summary><b>🤖 Agentic AI / MCP — 11 repos</b></summary>
+<summary><b>🚀 Agentic AI Demo — 9 repos</b></summary>
+
+| Repository | Description |
+|------------|-------------|
+| [eventhub-playwright-ui-framework](https://github.com/samirjagtap4030/eventhub-playwright-ui-framework) | EventHub — Playwright BDD UI framework, 16-skill AI pipeline (standalone → POM → DDT → TS → Cucumber) |
+| [eventhub-playwright-ui-api-framework](https://github.com/samirjagtap4030/eventhub-playwright-ui-api-framework) | EventHub — Playwright UI + API hybrid framework (API data setup, UI validation) |
+| [eventhub-postman-api](https://github.com/samirjagtap4030/eventhub-postman-api) | EventHub — AI-powered Postman API test generation via Claude + Newman |
+| [eventhub-restassured-bdd](https://github.com/samirjagtap4030/eventhub-restassured-bdd) | EventHub — REST Assured + Cucumber BDD API automation |
+| [AiAgentMCP-Playwright-MySQL](https://github.com/samirjagtap4030/AiAgentMCP-Playwright-MySQL) | GitHub Copilot sub-agents via MCP protocol |
+| [PlaywrightAgent-QA-Orchestrator](https://github.com/samirjagtap4030/PlaywrightAgent-QA-Orchestrator) | Playwright Planner / Generator / Healer agents |
+| [PlaywrightCli-AI-Demo](https://github.com/samirjagtap4030/PlaywrightCli-AI-Demo) | Playwright CLI-based AI test generation, execution, debugging & reporting |
+| [OrangeHRM-JiraMCP-Automation](https://github.com/samirjagtap4030/OrangeHRM-JiraMCP-Automation) | OrangeHRM — Jira MCP automated test sync |
+| [OrangeHRM-JiraMCP-Manual](https://github.com/samirjagtap4030/OrangeHRM-JiraMCP-Manual) | OrangeHRM — Jira MCP manual test case management |
+
+</details>
+
+<details>
+<summary><b>🤖 Agentic AI — 11 repos</b></summary>
 
 | Repository | Description |
 |------------|-------------|
