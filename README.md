@@ -27,7 +27,7 @@
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Open%20to-SDET%20%2F%20AI%20QA%20Architect%20Roles-success?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Open%20to-SDET%20%2F%20QA%20Automation%20Engineer%20Roles-success?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/Availability-Immediate-brightgreen?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/Work%20Mode-Hybrid%20%2F%20Remote-blue?style=for-the-badge&labelColor=000000" />
 </p>
