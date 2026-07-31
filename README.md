@@ -3,7 +3,7 @@
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Samir%20Jagtap&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=SDET%20%7C%20Agentic%20AI%20QA%20Architect%20%7C%20MCP%20Multi-Agent%20Automation&descSize=18&descAlignY=58" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Samir%20Jagtap&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=SDET%20%7C%20Agentic%20%26%20AI-driven%20QA%20%7C%20Multi-Agent%20Test%20Automation&descSize=18&descAlignY=58" alt="header" />
 </p>
 
 <p align="center">
